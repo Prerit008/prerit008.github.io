@@ -1,4 +1,4 @@
-*{
+ *{
 box-sizing:border-box;
 }
 
@@ -29,7 +29,7 @@ text-align:center;
 }
 
 .content .logo{
-width:13%;
+width:5%;
 position:absolute;
 top:1rem;
 left:2vw;
